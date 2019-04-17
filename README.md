@@ -1,4 +1,4 @@
-# 3D_Point_Cloud_hole_repair
+# 3D_Point_Cloud_hole_repair_filling
 A software for 3D point cloud data hole repair.
 ## Other
 This projct is a C++ and OpenGL practice several years ago, so the code is not elegant.
